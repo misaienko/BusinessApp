@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Services</key>
+	<array/>
+	<key>New item - 2</key>
+	<dict>
+		<key>Title</key>
+		<string>Service 2</string>
+		<key>Image</key>
+		<string>Image 2</string>
+		<key>Service</key>
+		<string>This is the description of the service 2</string>
+	</dict>
+	<key>New item - 3</key>
+	<dict>
+		<key>Title</key>
+		<string>Service 3</string>
+		<key>Image</key>
+		<string>Image 3</string>
+		<key>Service</key>
+		<string>This is the description of the service 3</string>
+	</dict>
+	<key>New item - 4</key>
+	<dict>
+		<key>Title</key>
+		<string>Service 4</string>
+		<key>Image</key>
+		<string>Image 4</string>
+		<key>Service</key>
+		<string>This is the description of the service 4</string>
+	</dict>
+	<key>New item - 5</key>
+	<dict>
+		<key>Title</key>
+		<string>Service 5</string>
+		<key>Image</key>
+		<string>Image 5</string>
+		<key>Service</key>
+		<string>This is the description of the service 5</string>
+	</dict>
+	<key>New item</key>
+	<dict>
+		<key>Title</key>
+		<string>Service 1</string>
+		<key>Image</key>
+		<string>Image 1</string>
+		<key>Service</key>
+		<string>This is the description of the service 1</string>
+	</dict>
+</dict>
+</plist>
